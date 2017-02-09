@@ -10,17 +10,29 @@ Int.max
 Int8.max
 Int8.min
 
+Int16.max
+Int16.min
+
+Int32.max
+Int32.min
+
+Int64.max
+Int64.min
+
 UInt8.max
+UInt8.min
+
+UInt16.max
 
 
 
 
 
 //: - Swift中默认是 Int ; 只鼓励你使用 Int. 值的类型首字母大写
-var y = 9998881232134
+var y = 999888123213456
 y = -234234
 
-
+print(y)
 
 
 //: [浮点型>>](@next)
